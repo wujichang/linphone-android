@@ -1,6 +1,6 @@
 [submodule "linphone"]
 	path = submodules/linphone
-	url = git://git.linphone.org/linphone.git
+	url = git://github.com/dmonakhov/linphone.git
 	ignore = untracked
 [submodule "submodules/externals/osip"]
 	path = submodules/externals/osip
