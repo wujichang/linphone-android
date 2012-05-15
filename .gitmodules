@@ -28,7 +28,7 @@
 	ignore = untracked
 [submodule "submodules/externals/ffmpeg"]
 	path = submodules/externals/ffmpeg
-	url = git://git.videolan.org/ffmpeg
+	url = git://github.com/dmonakhov/FFmpeg.git
 	ignore = untracked
 [submodule "submodules/externals/x264"]
 	path = submodules/externals/x264
